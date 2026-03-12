@@ -145,6 +145,9 @@ The application will open in your browser.
 
 ## 📷 Application Interface
 
+
+Summary 
+![image.alt](https://github.com/tanmayloya/Heart-Attack-Risk-Prediction-ML/blob/46f02890a021ca8c157f2e0cccaacccf89802067/summary.png)
 ---
 
 ## ⚠️ Disclaimer
